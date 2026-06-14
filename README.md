@@ -32,7 +32,7 @@ Answer + Source Documents
 
 ### 1. Clone & install
 ```bash
-git clone https://github.com/your-username/python-qa-assistant
+git clone https://github.com/vrandachag/Python-Q-A-Assistant.git
 cd python-qa-assistant
 pip install -r requirements.txt
 ```
