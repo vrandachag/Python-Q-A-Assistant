@@ -95,7 +95,7 @@ pytest tests/test_api.py -v
 
 ---
 
-## Deployment (Hugging Face Spaces)
+## Deployment
 
 This project was developed and tested locally using FastAPI and ChromaDB.
 
