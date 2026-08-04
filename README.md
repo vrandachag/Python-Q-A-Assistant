@@ -2,8 +2,6 @@
 
 An AI-powered Python programming Q&A system built with RAG (Retrieval-Augmented Generation), backed by Stack Overflow data.
 
-> Built for the Analytics Vidhya AI Engineer Assessment
-
 **Live Demo:** Local deployment only
 
 ---
